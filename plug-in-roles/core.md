@@ -16,6 +16,8 @@ The content of the Skydel Output folder is accessible at the end of the simulati
 
 
 
+![Jeff](../.gitbook/assets/plugins_in_skydel.png)
+
   
 
 
